@@ -1,5 +1,11 @@
 # Front-end Choose Your Own Adventure Take-Home
 
+## Setup
+
+- Clone repositroy
+- run `npm i`
+- run `npm run dev`
+
 ## Areas for improvement
 
 - Typescript
